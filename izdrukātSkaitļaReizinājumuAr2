@@ -1,0 +1,3 @@
+number = int(input("Ievadiet skaitli, lai programma to reizinātu ar 2 "))
+atbilde = number * 2
+print("Ja jūs reizinat savu skaitli ar 2, tas būs: ", atbilde)
